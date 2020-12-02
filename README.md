@@ -8,6 +8,8 @@ Linked below is a preview of the dataset that we have chosen, consisting of the 
 
 https://github.com/Miaiah/INST126_Proj4_Group/issues/1#issue-755671762
 
+Aside from the dataset containing all COVID-19 cases in each Maryland County, we have also created a dataset consisting of 
+
 
 
 
