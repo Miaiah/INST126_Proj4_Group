@@ -4,10 +4,9 @@ As COVID-19 is the most crucial disaster and catastrophe that we are currently f
 
 Firstly, we have spent several hours searching the Internet to find an accurate open source dataset online containing all COVID-19 cases in each Maryland County, consisting of columns showing each county and rows showing the exact date, from March all the way until November, and the time that each case had been reported; this dataset as a whole, consisting of 255 days in which COVID-19 cases were reported, will aid us in analyzing and investigating COVID-19 trends in the state of Maryland. 
 
+Linked below is a preview of the dataset that we have chosen, consisting of the first few rows:
 
-
-
-
+https://github.com/Miaiah/INST126_Proj4_Group/issues/1#issue-755671762
 
 
 
