@@ -4,4 +4,16 @@ As COVID-19 is the most crucial disaster and catastrophe that we are currently f
 
 Firstly, we have spent several hours searching the Internet to find an accurate open source dataset online containing all COVID-19 cases in each Maryland County, consisting of columns showing each county and rows showing the exact date, from March all the way until November, and the time that each case had been reported; this dataset as a whole, consisting of 255 days in which COVID-19 cases were reported, will aid us in analyzing and investigating COVID-19 trends in the state of Maryland. 
 
+
+
+		
+
+
+
+
+
+
+
+
+
 So far, we have created flowcharts and code for finding the day in which the maximum amount of cases in each county occurred and which county, in total, had the most cases. In the future, we are going to incorporate race trends in each Maryland County. Specifically, we are going to discover which race in each county was affected the most and least by COVID-19. Additionally, we think that it will be a good idea for the user to input which county they want to learn about. After inputting the county, a bunch of COVID-19 statistics will be printed as the output, including the date and number of highest COVID-19 count, date and number of lowest COVID-19 count.
