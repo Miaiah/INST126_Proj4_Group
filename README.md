@@ -6,9 +6,6 @@ Firstly, we have spent several hours searching the Internet to find an accurate 
 
 
 
-		
-
-
 
 
 
