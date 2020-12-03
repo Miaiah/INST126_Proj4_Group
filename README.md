@@ -17,4 +17,6 @@ Linked below is a preview of the dataset consisting of educational rates that we
 
 
 
-Another dataset that we created is a dataset consisting of ratial trends in every state. Using this dataset, we created a function, called def racial(state, stateCode), to compare the racial trends in Maryland versus the racial trends in three selected states: California, Texas, and Kansas.
+
+
+Another dataset that we created is a dataset consisting of COVID-19 ratial trends in every state. Using this dataset, we created a function, called def racial(state, stateCode), to compare the racial trends and COVID-19 cases in Maryland versus the racial trends and COVID-19 cases in three selected states: California, Texas, and Kansas.
