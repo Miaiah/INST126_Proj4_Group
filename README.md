@@ -8,7 +8,7 @@ Linked below is a preview of the dataset consisting of Maryland County COVID-19 
 
 https://github.com/Miaiah/INST126_Proj4_Group/issues/1#issue-755671762
 
-Our first function that we created, called dihds(), displays the data that is contained in the dataset above as a line graph. The second function that we created, called sdgihsdb(), displays the Maryland County COVID-19 case increase by county as a line graph as well. With a visual aid, it is easier to see the trends in COVID-19 counties within each county.
+Our first function that we created, called def mdCountiesCases(), displays the data that is contained in the dataset above as a line graph. The second function that we created, called def mdCountiesIncreaes(), displays the Maryland County COVID-19 case increase by county as a line graph as well. With a visual aid, it is easier to see the trends in COVID-19 counties within each county.
 
 
 Aside from the dataset containing all COVID-19 cases in each Maryland County, we have also created a dataset consisting of education rates in each MAryland County. Using this dataset along with the dataset consisting of all COVID-19 cases in each Maryland County, we will be able to analyze and investigate trends comparing educational rates and COVID-19 cases. This will be one of our defined functions, called educationalRates().
