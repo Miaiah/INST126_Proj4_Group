@@ -13,7 +13,7 @@ Aside from the dataset containing all COVID-19 cases in each Maryland County, we
 
 Linked below is a preview of the dataset consisting of educational rates that we have chosen, consisting of the first few rows:
 
-Another dataset that we created is a dataset consisting of ratial trends in every state. With this dataset, we can
+Another dataset that we created is a dataset consisting of ratial trends in every state. Using this dataset, we created a function, called def racial(state, stateCode), to compare the racial trends in Maryland versus the racial trends in three selected states: 
 
 
 
