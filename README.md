@@ -1,4 +1,4 @@
-# Maryland COVID-19 Data Analysis and Visualization by County
+# Maryland COVID-19 Data Analysis and Visualization
 
 As COVID-19 is the most crucial disaster and catastrophe that we are currently facing worldwide, we think that it is extremely important for us, as well as everyone around us, to understand how critical the situation actually is. Since December 2019, cases have been identified in a growing number of countries, including the United States, which eventually became the hot spot for the most amount of COVID-19 cases around the world. Our goals for this project are to summarize and analyze COVID-19 trends in the state of Maryland and compare them by County using four functions. 
 
@@ -15,4 +15,4 @@ Aside from the dataset containing all COVID-19 cases in each Maryland County, we
 
 https://github.com/Miaiah/INST126_Proj4_Group/issues/2#issue-755750340
 
-Another dataset that we created is a dataset consisting of COVID-19 ratial trends in every state. Using this dataset, we created a function, called countyEducation(county), to compare the racial trends and COVID-19 cases in Maryland versus the racial trends and COVID-19 cases in three selected states: California, Texas, and Kansas.
+Other datasets that we used are: 1. dataset consisting of COVID-19 cases by different races in every state; 2. dataset consisting of population by different races in every state. Using these datasets, we created a function, called racialPlot(populations_by_races, covid_cases_by_races_by_states, state, stateCode), to generate plots of COVID-19 racial trends and compare the racial trends and COVID-19 cases in Maryland versus the racial trends and COVID-19 cases in three selected states: California, Georgia, and Massachusetts.
