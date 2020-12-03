@@ -8,13 +8,15 @@ Linked below is a preview of the dataset consisting of Maryland County COVID-19 
 
 https://github.com/Miaiah/INST126_Proj4_Group/issues/1#issue-755671762
 
+Our first function that we created, called dihds(), displays the data that is contained in the dataset above as a line graph. The second function that we created, called sdgihsdb(), displays the Maryland County COVID-19 case increase by county as a line graph as well. With a visual aid, it is easier to see the trends in COVID-19 counties within each county.
+
 
 Aside from the dataset containing all COVID-19 cases in each Maryland County, we have also created a dataset consisting of education rates in each MAryland County. Using this dataset along with the dataset consisting of all COVID-19 cases in each Maryland County, we will be able to analyze and investigate trends comparing educational rates and COVID-19 cases. This will be one of our defined functions, called educationalRates().
 
 Linked below is a preview of the dataset consisting of educational rates that we have chosen, consisting of the first few rows:
 
+
+
 Another dataset that we created is a dataset consisting of ratial trends in every state. Using this dataset, we created a function, called def racial(state, stateCode), to compare the racial trends in Maryland versus the racial trends in three selected states: California, Texas, and Kansas.
-
-
 
 So far, we have created flowcharts and code for finding the day in which the maximum amount of cases in each county occurred and which county, in total, had the most cases. In the future, we are going to incorporate race trends in each Maryland County. Specifically, we are going to discover which race in each county was affected the most and least by COVID-19. Additionally, we think that it will be a good idea for the user to input which county they want to learn about. After inputting the county, a bunch of COVID-19 statistics will be printed as the output, including the date and number of highest COVID-19 count, date and number of lowest COVID-19 count.
