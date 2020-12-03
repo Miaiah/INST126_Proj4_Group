@@ -8,12 +8,12 @@ Linked below is a preview of the dataset consisting of Maryland County COVID-19 
 
 https://github.com/Miaiah/INST126_Proj4_Group/issues/1#issue-755671762
 
+
 Aside from the dataset containing all COVID-19 cases in each Maryland County, we have also created a dataset consisting of education rates in each MAryland County. Using this dataset along with the dataset consisting of all COVID-19 cases in each Maryland County, we will be able to analyze and investigate trends comparing educational rates and COVID-19 cases. This will be one of our defined functions, called educationalRates().
 
 Linked below is a preview of the dataset consisting of educational rates that we have chosen, consisting of the first few rows:
 
-
-
+Another dataset that we created is a dataset consisting of ratial trends in every state. With this dataset, we can
 
 
 
