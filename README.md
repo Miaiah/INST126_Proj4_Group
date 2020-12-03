@@ -18,5 +18,3 @@ Linked below is a preview of the dataset consisting of educational rates that we
 
 
 Another dataset that we created is a dataset consisting of ratial trends in every state. Using this dataset, we created a function, called def racial(state, stateCode), to compare the racial trends in Maryland versus the racial trends in three selected states: California, Texas, and Kansas.
-
-So far, we have created flowcharts and code for finding the day in which the maximum amount of cases in each county occurred and which county, in total, had the most cases. In the future, we are going to incorporate race trends in each Maryland County. Specifically, we are going to discover which race in each county was affected the most and least by COVID-19. Additionally, we think that it will be a good idea for the user to input which county they want to learn about. After inputting the county, a bunch of COVID-19 statistics will be printed as the output, including the date and number of highest COVID-19 count, date and number of lowest COVID-19 count.
