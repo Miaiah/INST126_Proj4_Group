@@ -15,4 +15,4 @@ Aside from the dataset containing all COVID-19 cases in each Maryland County, we
 
 https://github.com/Miaiah/INST126_Proj4_Group/issues/2#issue-755750340
 
-Another dataset that we created is a dataset consisting of COVID-19 ratial trends in every state. Using this dataset, we created a function, called def racial(state, stateCode), to compare the racial trends and COVID-19 cases in Maryland versus the racial trends and COVID-19 cases in three selected states: California, Texas, and Kansas.
+Another dataset that we created is a dataset consisting of COVID-19 ratial trends in every state. Using this dataset, we created a function, called countyEducation(county), to compare the racial trends and COVID-19 cases in Maryland versus the racial trends and COVID-19 cases in three selected states: California, Texas, and Kansas.
